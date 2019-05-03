@@ -2,8 +2,8 @@
 #include <SDL2/SDL.h>
 #include "ugui.h"
 
-#define DISPLAY_COLS 240
-#define DISPLAY_ROWS 340
+#define DISPLAY_COLS 128
+#define DISPLAY_ROWS 128
 
 uint32_t display[DISPLAY_COLS*DISPLAY_ROWS];
 
